@@ -1,7 +1,9 @@
 #WELL-SWITCHING: example of logistic modeling Many of the wells used for drinking purposes in Bangladesh
 #and South Asia are contaminated with natural arsenic. Arsenic is a cumulative poison, and exposure increases the
-#risk of cancer and other diseases. The research team (from US and Bangladesh) measured all the wells and labeled as "safe" if the arsenic level was below
-#0.5 units in 100mg/l.People using unsafe wells were encouraged to switch to nearby safe wells. A few years later the research team returned to check who
+#risk of cancer and other diseases. 
+#The research team (from US and Bangladesh) measured all the wells and labeled as "safe" if the arsenic level was below
+#0.5 units in 100mg/l. People using unsafe wells were encouraged to switch to nearby safe wells. 
+#A few years later the research team returned to check who
 #had switched wells to understand the predictive factors for switching. 
 #References: Geen, Steen, Vergeng et al (2003) and Gelman, Trevisani,Lu, van Geen, (2004).
 
